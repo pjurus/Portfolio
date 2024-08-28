@@ -31,7 +31,7 @@
   - age ratio (grouped)
   - average of previous purchases and rating
 
-Moreover, **filters and slicers** make it easier to analyze specific data segments for non-technical users.
+  Moreover, **filters and slicers** make it easier to analyze specific data segments for non-technical users.
   
 
 
