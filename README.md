@@ -24,13 +24,13 @@
 - **PDF Report:** [`Sales analysis.pdf`](https://github.com/pjurus/Portfolio/blob/main/Projects/PowerBI/Shopping%20trends%20analysis/Sales%20analysis.pdf)
 - **Skills:** data cleaning, data visualization, data analysis
 - **Technology:** PowerBI, Power Query
-- **Description:** This dashboard can help make significant business decisions.This dashboard allows users to analyze reports and view key metrics such as
+- **Description:** This dashboard can help make significant business decisions. This dashboard allows users to analyze reports and view key metrics and features such as
   - best-selling products, colors, categories, sizes and items
   - best season accoring to Sum of Purchase Amount (USD)
   - gender ratio
   - age ratio (grouped)
   - average of previous purchases and rating
-  - filters and slicers make it easier to analyze specific data segments even for non-technical users 
+  - filters make it easier to analyze specific data segments even for non-technical users 
   
 
 
