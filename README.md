@@ -25,7 +25,7 @@
   - **Top Hosts:** Provides an overview of hosts across Seattle, including neighbourgood group filter, number of hosts, listings and a chart of top hosts and average price of their listings
   - **Room Type:** Provides an overview of the most popular room types across the city, including neighbourhood group filter, number of different room types, listings and neighbourhoods, average of price per room type chart, room type ratio pie chart and standard deviation of price chart
   - **Reviews:** Provides an overview of reviews and revievers across Seattle, including neighbourhood group filter, number of reviews and reviewers, time series of count of reviews with a trend line and a chart of top 10 reviewers with the most comments by room type
-  - **Correlation** Provides an overview of key metrics heatmap created using a Python script (seaborn library)
+  - **Correlation:** Provides an overview of key metrics heatmap created using a Python script (seaborn library)
 ### Shopping Trends - Sales Analysis
 - **PowerBI Report:** [`Sales analysis.pbix`](https://github.com/pjurus/Portfolio/blob/main/Projects/PowerBI/Shopping%20trends%20analysis/Sales%20analysis.pbix)
 - **PDF Report:** [`Sales analysis.pdf`](https://github.com/pjurus/Portfolio/blob/main/Projects/PowerBI/Shopping%20trends%20analysis/Sales%20analysis.pdf)
