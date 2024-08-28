@@ -8,7 +8,6 @@
 - **Skills:** Web scraping, data cleaning, data analysis, data visualization
 - **Technology:** BeautifulSoup, requests, pandas, seaborn, matplotlib, NumPy
 - **Description:** The purpose of this analysis is to investigate market inequality among the 50 largest companies by revenue measured using the Gini coefficient (integrating with the trapezoidal method) and the Lorenz curve. Since the coefficient is low, the analysis indicates a relatively low level of inequality. The data was scrapped from [`Wikipedia`](https://en.wikipedia.org/wiki/List_of_largest_companies_by_revenue).
-
 ### The Phillips Curve Analysis - Spearman's Rank Correlation Coefficient
 - **Code:** [`The Phillips Curve - Spearman's Rank Correlation Analysis.ipynb`](https://github.com/pjurus/Portfolio/blob/main/Projects/Python/The%20Phillips%20Curve%20-%20Spearman's%20Rank%20Correlation%20Analysis.ipynb)
 - **Skills:** data cleaning, data analysis, data visualization
@@ -25,14 +24,13 @@
 - **PDF Report:** [`Sales analysis.pdf`](https://github.com/pjurus/Portfolio/blob/main/Projects/PowerBI/Shopping%20trends%20analysis/Sales%20analysis.pdf)
 - **Skills:** data cleaning, data visualization, data analysis
 - **Technology:** PowerBI, Power Query
-- **Description:** The dashboard can help make significant business decisions.This dashboard allows users to analyze reports and view key metrics such as
+- **Description:** This dashboard can help make significant business decisions.This dashboard allows users to analyze reports and view key metrics such as
   - best-selling products, colors, categories, sizes and items
   - best season accoring to Sum of Purchase Amount (USD)
   - gender ratio
   - age ratio (grouped)
   - average of previous purchases and rating
-  
-  Filters and slicers make it easier to analyze specific data segments even for non-technical users 
+  - filters and slicers make it easier to analyze specific data segments even for non-technical users 
   
 
 
