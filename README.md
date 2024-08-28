@@ -17,7 +17,7 @@
 - **PowerBI Report:** [`Seattle listings.pbix`](https://github.com/pjurus/Portfolio/blob/main/Projects/PowerBI/Seattle%20listings%20analysis/Seattle%20listings.pbix)
 - **PDF Report:** [`Seattle listings.pdf`](https://github.com/pjurus/Portfolio/blob/main/Projects/PowerBI/Seattle%20listings%20analysis/Seattle%20listings.pdf)
 - **Skills:** data cleaning, data visualization, data analysis, data modeling
-- **Technology:** PowerBI, Power Query
+- **Technology:** PowerBI, Power Query, seaborn
 - **Description:** This dashboard provides an analysis of real estate market across Seattle, focusing on various metrics to support decision-making, **including maps showing the distribution of listings** for better understanding. The dashboard consists of the following pages:
   - **Overall:** Provides an overview of Seattle's listings, including total number of hosts, listings, neighbourhood groups, neighbourhoods, average of price
   - **Neighbourhood Group:** Provides an overview of neighbourhoods, including total number of listings, neighbourhoods, hosts and average of listings per neighbourhood
