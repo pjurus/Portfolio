@@ -25,7 +25,13 @@
 - **Skills:** data cleaning, data visualization, data analysis
 - **Technology:** PowerBI, Power Query
 - **Description:** This dashboard ables users to analyze reports and view all important metrics such as
-- - d
+  - Sum of Purchase Amount by location, season, category and items
+  - Best-selling products and their colors
+  - Gender ratio
+  - Size ratio
+  - Age ratio (grouped)
+  - Average of previous purchases and rating
+  
 
 
 
