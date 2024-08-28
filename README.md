@@ -19,9 +19,9 @@
 - **Skills:** data cleaning, data visualization, data analysis, data modeling
 - **Technology:** PowerBI, Power Query
 - **Description:** This dashboard provides an analysis of Seattle's real estate market, focusing on various metrics to support decision-making. The dashboard consists of the following pages:
-  1. x
-  2. d
-  3. e
+  1 x
+  2 d
+  3 e
 ### Shopping Trends - Sales Analysis
 - **PowerBI Report:** [`Sales analysis.pbix`](https://github.com/pjurus/Portfolio/blob/main/Projects/PowerBI/Shopping%20trends%20analysis/Sales%20analysis.pbix)
 - **PDF Report:** [`Sales analysis.pdf`](https://github.com/pjurus/Portfolio/blob/main/Projects/PowerBI/Shopping%20trends%20analysis/Sales%20analysis.pdf)
