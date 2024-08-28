@@ -4,7 +4,7 @@
 - 🛠️ SQL, Python, PowerBI
 ## Projects
 **Investigating market inequality among top companies**<br>
-- [`Largest Companies by Revenue Analysis.ipynb`](https://github.com/pjurus/Portfolio/blob/main/Projects/Python/Largest%20Companies%20by%20Revenue%20Analysis.ipynb)
+- Code: [`Largest Companies by Revenue Analysis.ipynb`](https://github.com/pjurus/Portfolio/blob/main/Projects/Python/Largest%20Companies%20by%20Revenue%20Analysis.ipynb)
 - 
 
 
