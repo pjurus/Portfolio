@@ -18,10 +18,14 @@
 - **PDF Report:** [`Seattle listings.pdf`](https://github.com/pjurus/Portfolio/blob/main/Projects/PowerBI/Seattle%20listings%20analysis/Seattle%20listings.pdf)
 - **Skills:** data cleaning, data visualization, data analysis, data modeling
 - **Technology:** PowerBI, Power Query
-- **Description:** This dashboard provides an analysis of real estate market across Seattle, focusing on various metrics to support decision-making, including maps showing the distribution of listings for better understanding. The dashboard consists of the following pages:
-  - **Overall:** Provides an overview of Seattle's listings, including total number of hosts, listings, neighbourhood groups, neighbourhoods, average of price and a distribution of listings map
+- **Description:** This dashboard provides an analysis of real estate market across Seattle, focusing on various metrics to support decision-making, **including maps showing the distribution of listings** for better understanding. The dashboard consists of the following pages:
+  - **Overall:** Provides an overview of Seattle's listings, including total number of hosts, listings, neighbourhood groups, neighbourhoods, average of price
   - **Neighbourhood Group:** Provides an overview of Neighbourhoods, including total number of listings, neighbourhoods, hosts and average of listings per neighbourhood
-  - **Availability by Day:** Provides an overview of daily or date-range availability, including date range slicer, neighbourhood group slicer, number of lisings available, a time series of available lists + analysis and top minimum days available chart
+  - **Availability by Day:** Provides an overview of daily or date-range availability, including date range slicer, neighbourhood group slicer, number of lisings available, a time series of available lists + its analysis and top minimum days available chart
+  - **Top Hosts:** Provides an overview of hosts across Seattle, including neighbourgood group filter, number of hosts, listings and a chart of top hosts and average price of their listings
+  - **Room Type:** Provides an overview of the most popular room types across the city, including neighbourhood group filter, number of different room types, listings and neighbourhoods, average of price per room type chart, room type ratio pie chart and standard deviation of price chart
+  - **Reviews:** Provides an overview of reviews and revievers across Seattle, including neighbourhood group filter, number of reviews and reviewers, time series of count of reviews with a trend line and a chart of top 10 reviewers with the most comments by room type
+  - **Correlation** Provides an overview of key metrics heatmap created using a Python script (seaborn library)
 ### Shopping Trends - Sales Analysis
 - **PowerBI Report:** [`Sales analysis.pbix`](https://github.com/pjurus/Portfolio/blob/main/Projects/PowerBI/Shopping%20trends%20analysis/Sales%20analysis.pbix)
 - **PDF Report:** [`Sales analysis.pdf`](https://github.com/pjurus/Portfolio/blob/main/Projects/PowerBI/Shopping%20trends%20analysis/Sales%20analysis.pdf)
