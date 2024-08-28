@@ -18,6 +18,14 @@
 - **PDF Report:** [`Seattle listings.pdf`](https://github.com/pjurus/Portfolio/blob/main/Projects/PowerBI/Seattle%20listings%20analysis/Seattle%20listings.pdf)
 - **Skills:** data cleaning, data visualization, data analysis, data modeling
 - **Technology:** PowerBI, Power Query
-- **Description:** 
+- **Description:**
+### Shopping Trends - Sales Analysis
+- **PowerBI Report:** [`Sales analysis.pbix`](https://github.com/pjurus/Portfolio/blob/main/Projects/PowerBI/Shopping%20trends%20analysis/Sales%20analysis.pbix)
+- **PDF Report:** [`Sales analysis.pdf`](https://github.com/pjurus/Portfolio/blob/main/Projects/PowerBI/Shopping%20trends%20analysis/Sales%20analysis.pdf)
+- **Skills:** data cleaning, data visualization, data analysis
+- **Technology:** PowerBI, Power Query
+- **Description:** This dashboard ables users to analyze reports and view all important metrics such as
+- - d
+
 
 
