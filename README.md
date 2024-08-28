@@ -30,7 +30,7 @@
   - gender ratio
   - age ratio (grouped)
   - average of previous purchases and rating
-- Filters and slicers make it easier to analyze specific data segments even for non-technical users 
+  Filters and slicers make it easier to analyze specific data segments even for non-technical users 
   
 
 
