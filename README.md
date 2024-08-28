@@ -12,6 +12,12 @@
 - **Code:** [`The Phillips Curve - Spearman's Rank Correlation Analysis.ipynb`](https://github.com/pjurus/Portfolio/blob/main/Projects/Python/The%20Phillips%20Curve%20-%20Spearman's%20Rank%20Correlation%20Analysis.ipynb)
 - **Skills:** data cleaning, data analysis, data visualization
 - **Technology:** pandas, NumPy, SciPy, plotly
-- **Description:** The Phillips curve states that inflation and unemployment have an inverse relationship - higher inflation is associated with lower unemployment and vice versa. The purpose of this analysis is to investigate this among the countries in the world in the period of **1999-2023**. We can observe that it tends to work in some countries.
+- **Description:** The Phillips curve states that inflation and unemployment have an inverse relationship - higher inflation is associated with lower unemployment and vice versa. The purpose of this analysis is to investigate this among the countries in the world in the years of **1999-2023**. We can observe that it tends to work in some economies in a studied period.
+### Seattle Listings Analysis - Dashboard
+- **PowerBI Report:** [`Seattle listings.pbix`](https://github.com/pjurus/Portfolio/blob/main/Projects/PowerBI/Seattle%20listings%20analysis/Seattle%20listings.pbix)
+- **PDF Report:** [`Seattle listings.pdf`](https://github.com/pjurus/Portfolio/blob/main/Projects/PowerBI/Seattle%20listings%20analysis/Seattle%20listings.pdf)
+- **Skills:** data cleaning, data visualization, data analysis, data modeling
+- **Technology:** PowerBI, Power Query
+- **Description:** 
 
 
