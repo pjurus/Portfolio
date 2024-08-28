@@ -18,20 +18,20 @@
 - **PDF Report:** [`Seattle listings.pdf`](https://github.com/pjurus/Portfolio/blob/main/Projects/PowerBI/Seattle%20listings%20analysis/Seattle%20listings.pdf)
 - **Skills:** data cleaning, data visualization, data analysis, data modeling
 - **Technology:** PowerBI, Power Query
-- **Description:**
+- **Description:** 
 ### Shopping Trends - Sales Analysis
 - **PowerBI Report:** [`Sales analysis.pbix`](https://github.com/pjurus/Portfolio/blob/main/Projects/PowerBI/Shopping%20trends%20analysis/Sales%20analysis.pbix)
 - **PDF Report:** [`Sales analysis.pdf`](https://github.com/pjurus/Portfolio/blob/main/Projects/PowerBI/Shopping%20trends%20analysis/Sales%20analysis.pdf)
 - **Skills:** data cleaning, data visualization, data analysis
 - **Technology:** PowerBI, Power Query
 - **Description:** This dashboard allows users to analyze reports and view key metrics such as
-  - best-selling products, colors categories, sizes and items
-  - top season accoring to Sum of Purchase Amount (USD)
+  - best-selling products, colors, categories, sizes and items
+  - best season accoring to Sum of Purchase Amount (USD)
   - gender ratio
   - age ratio (grouped)
   - average of previous purchases and rating
 
-  Moreover, **filters and slicers** make it easier to analyze specific data segments for non-technical users. The dashboard can help make significant business decisions.
+  Moreover, **filters and slicers** make it easier to analyze specific data segments even for non-technical users. The dashboard can help make significant business decisions.
   
 
 
