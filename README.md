@@ -30,7 +30,7 @@
   - Gender ratio
   - Age ratio (grouped)
   - Average of previous purchases and rating
-  Moreover, **filters and slicers** allow users to analyze specific data segments
+Moreover, **filters and slicers** allow users to analyze specific data segments
   
 
 
