@@ -25,11 +25,12 @@
 - **Skills:** data cleaning, data visualization, data analysis
 - **Technology:** PowerBI, Power Query
 - **Description:** This dashboard ables users to analyze reports and view all important metrics such as
-  1. Best-selling products, colors categories, sizes and items
-  2. Top season accoring to Sum of Purchase Amount (USD)
-  3. Gender ratio
-  4. Age ratio (grouped)
-  5. Average of previous purchases and rating
+  - best-selling products, colors categories, sizes and items
+  - top season accoring to Sum of Purchase Amount (USD)
+  - gender ratio
+  - age ratio (grouped)
+  - average of previous purchases and rating
+Moreover, **filters and slicers** allow users to analyze specific data segments
   
 
 
